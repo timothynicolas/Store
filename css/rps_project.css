@@ -1,0 +1,58 @@
+/* GENERAL STYLING */
+
+    body{
+        font-family: 'Poppins', sans-serif ;
+        padding-top: 5%;
+        background-color: #0A0D14;
+        color: white;
+    }
+
+    /* COLORS:
+    #0A0D14 black
+    #28364E gray
+    #556FF7 blue
+    #FFFFFF white
+    */
+
+    .div_gray{
+        background-color: #28364E;
+    }
+
+/* END */
+
+/* NAVBAR */
+
+    .navbar_color{
+        background-color: #0A0D14;
+    }
+
+    .text_white{
+        color: white;
+    }
+
+/* END */
+
+
+/* FONT STYLES */
+
+    .fw-300{
+        font-weight: 300;
+    }
+
+    .fw-500{
+        font-weight: 500;
+    }
+
+    .fw-700{
+        font-weight: 700;
+    }
+
+    .color-black{
+        color: black;
+    }
+/* END */
+
+
+
+
+

@@ -1,0 +1,71 @@
+body{ 
+    font-family: 'Poppins', sans-serif ;
+    padding-top: 5%;
+    background-color: #0A0D14;
+    color: white;
+}
+
+
+/* COLORS:
+#0A0D14 black
+#28364E gray
+#556FF7 blue
+#FFFFFF white
+*/
+
+.login-container{
+    padding-bottom: 5%;
+    border-radius: 10px;
+}
+
+.input-field{
+    height: 50px; 
+    border-radius: 10px; 
+    border-style: none; 
+    padding-left: 10px;
+}
+
+.login-button{
+    color: white;
+    background-color: #077bff;
+    height: 50px;
+}
+
+.login-button:hover{
+    background-color: rgba(7, 123, 255, 0.7);
+}
+
+.div-gray{
+    background-color: #28364E;
+    height: 500px;
+}
+
+.text_white{
+    color: white;
+}
+
+.fw-300{
+    font-weight: 300;
+}
+
+.fw-500{
+    font-weight: 500;
+}
+
+.fw-700{
+    font-weight: 700;
+}
+
+.color-red{
+    color: red;
+}
+
+.color-black{
+    color: black;
+}
+/* END */
+
+
+
+
+
